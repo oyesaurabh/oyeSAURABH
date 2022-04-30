@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm saurabh_yadav</h1>
-![Untitled Design](https://user-images.githubusercontent.com/66557474/166124625-f58adf6a-1d70-42da-8212-d2c2815a5b25.png)
 <hr>
 <p align="left"> <a href="https://twitter.com/oye__saurabh" target="blank"><img src="https://img.shields.io/twitter/follow/oye__saurabh?logo=twitter&style=for-the-badge" alt="oye__saurabh" /></a> </p>
 
