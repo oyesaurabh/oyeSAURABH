@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm saurabh_yadav</h1>
-<hr>
 <p align="left"> <a href="https://twitter.com/oye__saurabh" target="blank"><img src="https://img.shields.io/twitter/follow/oye__saurabh?logo=twitter&style=for-the-badge" alt="oye__saurabh" /></a> </p>
 
 - 💬 Ask me about **webD & DSA**
