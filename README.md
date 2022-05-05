@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **oye.saurabhyadav@gmail.com**
 
-- ⚡ Fun fact **PANDAS can't be racist, because they are BLACK & WHITE at the same time**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oye__saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oye__saurabh" height="30" width="40" /></a>
