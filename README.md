@@ -20,7 +20,7 @@
   <img align="left" alt="Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 </a>
 <a href="https://www.codechef.com/users/oye_saurabh">
-  <img align="left" alt="Codeforce" width="32px" src="https://www.svgrepo.com/show/330182/codechef.svg" />
+  <img align="left" alt="Codeforce" width="32px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
 </a>
 <a href="https://www.hackerrank.com/oyeSAURABH">
   <img align="left" alt="hackerrank logo" width="32px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />
