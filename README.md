@@ -12,7 +12,7 @@
 
 ## Coding Profiles:
 <a href="https://leetcode.com/uchiha_madara_/">
-  <img align="left" alt="Leetcode" width="32px" src="https://iconscout.com/icon/leetcode-3628885" />
+  <img align="left" alt="Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 </a>
 <a href="https://www.codechef.com/users/oye_saurabh">
   <img align="left" alt="Codeforce" width="32px" src="https://www.svgrepo.com/show/330182/codechef.svg" />
@@ -26,6 +26,6 @@
 
 ## GitHub Status:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruba-datta&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="dhruba-datta" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=oyeSAURABH&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="saurabh" />
   
 ![](./assets/bottom_header.svg)
