@@ -1,6 +1,6 @@
 <h1><img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="40"> नमस्ते (Namaste), I'm Saurabh Yadav! <img src="https://media.giphy.com/media/3oKIPyHbfidGIphUzu/giphy.gif" width="80"></h1>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="400">
-I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
+I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
 
 - 🔭 I’m currently a CS student.
 - 📚 I’m currently learning  backend web development.
