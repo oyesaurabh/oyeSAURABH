@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student.
 - 📚 I’m currently learning  backend web development.
 - 👯 I’m looking for a software engineering Roles. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saurabh4761) || [Gmail](mailto:oye.saurabhyadav@gmail.com) || [WhatsApp](https://api.whatsapp.com/send?phone=917827641244)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saurabh4761) || [Gmail](mailto:oye.saurabhyadav@gmail.com) || [WhatsApp](https://api.whatsapp.com/send?phone=917827641244)
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=oyeSAURABH" alt="visit" /> </p> -->
 
