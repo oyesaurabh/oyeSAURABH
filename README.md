@@ -26,13 +26,12 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h1><img src="https://media.giphy.com/media/NnSFnC428LRHaxUNzj/giphy.gif" width="40"> Where you can find me</h1>
 <p align="left">
 <a href="https://twitter.com/oye__saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oye__saurabh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabh4761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh4761" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/saurabh4761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh4761" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/oyesaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oyesaurabh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/not_saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oyesaurabh" height="30" width="40" /></a>
+</p>
 
 <br>
 <h1> <img src="https://media.giphy.com/media/arB1hzGBS8PCU4VZdV/giphy.gif" width="50">Here's some humor for you</h1>
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-<!-- <a href="https://www.codechef.com/users/oye_saurabh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="oye_saurabh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/oyesaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oyesaurabh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oyesaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oyesaurabh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<oyesaurabh>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<oyesaurabh>/profile" height="30" width="40" /></a> -- >
-</p>
+
