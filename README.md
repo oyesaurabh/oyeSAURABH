@@ -27,7 +27,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <!-- Git Stats -->
 <h1> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Git Stats</h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyeSAURABH&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="living-hell" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyeSAURABH&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="oyesaurabh" />
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=oyeSAURABH&show_icons=true&theme=radical" alt="stats" />
 
