@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="40"> नमस्ते (Namaste), I'm Saurabh Yadav!</h1>
+<!-- <h1><img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="40"> नमस्ते (Namaste), I'm Saurabh Yadav!</h1>
 
 <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
@@ -15,7 +15,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://github.com/oyeSAURABH/Animeverse"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oyesaurabh&repo=AnimeVerse&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
 <a href="https://github.com/oyeSAURABH/TourMate"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oyesaurabh&repo=TourMate&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
 <a href="https://github.com/oyeSAURABH/crypto-tracker"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oyesaurabh&repo=crypto-tracker&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
-<a href="https://github.com/oyeSAURABH/meme_maker"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oyesaurabh&repo=meme_maker&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+<a href="https://github.com/oyeSAURABH/meme_maker"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oyesaurabh&repo=meme_maker&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a> -->
 
 <!-- Languages and tools -->
 <!-- <h1><img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="40"> Languages and Tools</h1>
