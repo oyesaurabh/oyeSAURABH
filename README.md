@@ -1,6 +1,6 @@
-<!-- <h1><img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="40"> नमस्ते (Namaste), I'm Saurabh Yadav!</h1>
+<h1><img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="40"> नमस्ते (Namaste)</h1>
 
-<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<!-- <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
 I'm a computer science student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
 
 - 🔭 I’m currently a CS student.
