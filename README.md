@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=Kafka" height="40" alt="Kafka logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  /> -->
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
